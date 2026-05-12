@@ -1,0 +1,1 @@
+this is real time chat application using mern and socket io
